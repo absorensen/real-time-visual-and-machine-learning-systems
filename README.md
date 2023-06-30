@@ -11,9 +11,11 @@ An upcoming course.
 
 ## Target Audience
 
-M.Sc. students with an interest in systems programming, especially if they are interested in deep learning, computer graphics, computer vision, image analysis or signal processing.
+M.Sc. students with an interest in systems programming, especially if they are
+interested in deep learning, computer graphics, computer vision, image analysis or signal processing.
 
-PhD students who need to learn about performance. If they don't have previous experience in C++ or Rust they might need to spend some time preparing.
+PhD students who need to learn about performance. If they don't have previous experience in
+C++ or Rust they might need to spend some time preparing.
 
 ## Learning Objectives
 
@@ -27,7 +29,7 @@ A student who has met the objectives of the course will be able to:
 * Give an overview of core concepts in parallelization.
 * Explain input events and event-based processing.
 * Explain integers and bitwise operations as well as floats and precision.
-* Perform performance profiling and optimization of complex heterogeneous systems. 
+* Perform performance profiling and optimization of complex heterogeneous systems.
 * Analyze cases relevant to the students' specialization.
 * Choose the right tools presented in the course for implementing their own project.
 * Programming, presenting and analyzing the students' own real-time system.
@@ -46,8 +48,10 @@ Aside from reading and listening:
 * HAND-IN - Coding - memory hierarchies and GPU's
 * HAND-IN - Analysis - minimum 3 points from the use case list and analysing a code template
 * Inference exercise
-* Analysis/presentation/discussion exercise. The student will choose a use case, analyze it, present it to a group and then discuss it  
-* HAND-IN & DEMO - Significant programming project - presentation on demo day and report hand-in about the product and the process
+* Analysis/presentation/discussion exercise. The student will choose a use case,
+analyze it, present it to a group and then discuss it  
+* HAND-IN & DEMO - Significant programming project - presentation on demo day
+and report hand-in about the product and the process
 
 ## Schedule - 15 Days
 
