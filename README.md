@@ -59,7 +59,7 @@ and report hand-in about the product and the process
 Introduction to the course  
 Introduction to Rust  
 Read all of level 0  
-Make sure the code framework compiles and runs 
+Make sure the code framework compiles and runs  
 Rudimentary Rust exercises
 
 ### 2
@@ -79,7 +79,7 @@ Parallelization
 Analysis Exercise/Hand-in continued
 
 ### 6
-Types and inference of neural networks 
+Types and inference of neural networks  
 Inference exercise
 
 ### 7
