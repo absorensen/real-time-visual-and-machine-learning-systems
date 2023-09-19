@@ -1,6 +1,6 @@
 # Real-Time Visual and Machine Learning Systems
 
-An upcoming course which will be based on [this material](absorensen.github.io/the-guide).  
+An upcoming course which will be based on [this material](https://absorensen.github.io/the-guide/).  
 <a href="https://www.flaticon.com/free-icons/lightning" title="lightning icons">Lightning icons created by Freepik - Flaticon</a>
 
 ## Recommended Prerequisites
