@@ -6,8 +6,8 @@ repo_url: https://github.com/absorensen/real-time-visual-and-machine-learning-sy
 theme:
   language: en
   name: material
-  favicon: figures/favicon.png
-  logo: figures/mlops_cycle.png
+  favicon: figures/storm.png
+  logo: figures/storm.png
   icon:
     repo: fontawesome/brands/github
   palette:
