@@ -2,13 +2,15 @@
 
 An upcoming course which will be based on [this material](https://absorensen.github.io/the-guide/).  
 <a href="https://www.flaticon.com/free-icons/lightning" title="lightning icons">Lightning icons created by Freepik - Flaticon</a>
+.
 
 ## Recommended Prerequisites
+One or more of the following:  
 [High Performance Computing](https://kurser.dtu.dk/course/2023-2024/02614)  
-[Compute Graphics](https://kurser.dtu.dk/course/02561) and/or  
-[Computer Vision](https://kurser.dtu.dk/course/2023-2024/02504) and/or  
-[Deep Learning](https://kurser.dtu.dk/course/02456) and/or  
-[Advanced Deep Learning in Computer Vision](https://kurser.dtu.dk/course/2023-2024/02501)
+[Compute Graphics](https://kurser.dtu.dk/course/02561)   
+[Computer Vision](https://kurser.dtu.dk/course/2023-2024/02504)  
+[Deep Learning](https://kurser.dtu.dk/course/02456)  
+[Advanced Deep Learning in Computer Vision](https://kurser.dtu.dk/course/2023-2024/02501)  
 
 ## Target Audience
 
@@ -16,7 +18,9 @@ M.Sc. students with an interest in systems programming, especially if they are
 interested in deep learning, computer graphics, computer vision, image analysis or signal processing.
 
 PhD students who need to learn about performance and real-time systems. If they don't have previous
-experience in C++ or Rust they might need to spend some time preparing.
+experience in C++ or Rust they may benefit from spending some time preparing by reading
+[module 0](https://absorensen.github.io/the-guide/m0_introduction/) and the material
+from [Rust itself](https://www.rust-lang.org/learn).
 
 ## Learning Objectives
 
@@ -57,7 +61,10 @@ analyze it, present it to a group and then discuss it
 and report hand-in about the product and the process
 
 ## Schedule
-Location: Building 321, room 232 at DTU
+Location: Building 321, room 232 at DTU  
+The lectures before New Years will be from 13-17  
+The project work after New Years will be all day, but you can come and go as you'd like
+The course ends with a demo day where you can show off your hard work  
 
 Date      | Topics
 ----------|-----------
