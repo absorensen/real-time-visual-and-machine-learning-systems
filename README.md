@@ -7,7 +7,7 @@ An upcoming course which will be based on [this material](https://absorensen.git
 ## Recommended Prerequisites
 One or more of the following:  
 [High Performance Computing](https://kurser.dtu.dk/course/2023-2024/02614)  
-[Compute Graphics](https://kurser.dtu.dk/course/02561)   
+[Compute Graphics](https://kurser.dtu.dk/course/02561)  
 [Computer Vision](https://kurser.dtu.dk/course/2023-2024/02504)  
 [Deep Learning](https://kurser.dtu.dk/course/02456)  
 [Advanced Deep Learning in Computer Vision](https://kurser.dtu.dk/course/2023-2024/02501)  
