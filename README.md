@@ -66,7 +66,7 @@ The lectures before New Years will be from 13-17
 The project work after New Years will be all day, but you can come and go as you'd like
 The course ends with a demo day where you can show off your hard work  
 
-Date      | Topics    |Lecture    
+Date      | Topics    |Lecture
 ----------|-----------|-----------
 26/10/23  | Introduction to the course <br> Introduction to Rust <br> Read all of level 1 and 2 <br> Install and run framework <br> Rudimentary Rust exercises | [Link](https://github.com/absorensen/real-time-visual-and-machine-learning-systems/blob/main/lectures/autumn23/231026lecture.pdf)
 2/11/23 | Read level 3 for modules 0 and 1 <br> Memory Hierarchies and computational graphs <br> Pen and Paper exercises | [Link](https://github.com/absorensen/real-time-visual-and-machine-learning-systems/blob/main/lectures/autumn23/231102lecture.pdf)
