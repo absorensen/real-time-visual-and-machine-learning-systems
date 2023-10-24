@@ -66,20 +66,20 @@ The lectures before New Years will be from 13-17
 The project work after New Years will be all day, but you can come and go as you'd like
 The course ends with a demo day where you can show off your hard work  
 
-Date      | Topics    |Lecture
-----------|-----------|-----------
-26/10/23  | Introduction to the course <br> Introduction to Rust <br> Read all of level 1 and 2 <br> Install and run framework <br> Rudimentary Rust exercises | [Link](https://github.com/absorensen/real-time-visual-and-machine-learning-systems/blob/main/lectures/autumn23/231026lecture.pdf)
-2/11/23 | Read level 3 for modules 0 and 1 <br> Memory Hierarchies and computational graphs <br> Pen and Paper exercises | [Link](https://github.com/absorensen/real-time-visual-and-machine-learning-systems/blob/main/lectures/autumn23/231102lecture.pdf)
-9/11/23 | Memory Hierarchies and computational graphs <br> Coding Exercise/Hand-in | [Link](https://github.com/absorensen/real-time-visual-and-machine-learning-systems/blob/main/lectures/autumn23/231109lecture.pdf)
-16/11/23 | Read level 3 for module 2 <br> Parallelization <br> Analysis Exercise/Hand-in |
-23/11/23 | Parallelization <br> Analysis Exercise/Hand-in continued |
-30/11/23 | Read level 3 for modules 3 and 4 <br> Types <br> Introduction to Profiling and Performance Use Cases <br> Inference exercise |
-7/12/23 | Introduction to projects <br> Exercise / Group discussions of cases |
-2/1/24 | Tips and tricks for real-time systems <br> Introduction to projects <br> Choosing projects <br> Programming |
-3/1/24 | Programming |
-4/1/24 | Programming |
-5/1/24 | Programming |
-8/1/24 | Programming |
-9/1/24 | Programming |
-10/1/24 | Programming |
-11/1/24 | Programming <br> Demo day |
+Date      | Prep      | Topics    |Lecture
+----------|-----------|-----------|-------
+26/10/23  | Read level 1 and 2 for all modules <br> Install and run framework <br> | Introduction to the course <br> Introduction to Rust <br> Rudimentary Rust exercises | [Link](https://github.com/absorensen/real-time-visual-and-machine-learning-systems/blob/main/lectures/autumn23/231026lecture.pdf)
+2/11/23 | Read level 3 for modules 0 and 1 | Memory Hierarchies and computational graphs <br> Pen and Paper exercises | [Link](https://github.com/absorensen/real-time-visual-and-machine-learning-systems/blob/main/lectures/autumn23/231102lecture.pdf)
+9/11/23 | Reread GPU sections | Memory Hierarchies and computational graphs <br> Coding Exercise/Hand-in | [Link](https://github.com/absorensen/real-time-visual-and-machine-learning-systems/blob/main/lectures/autumn23/231109lecture.pdf)
+16/11/23 | Read level 3 for module 2 | Parallelization <br> Analysis Exercise/Hand-in |
+23/11/23 | | Parallelization <br> Analysis Exercise/Hand-in continued |
+30/11/23 | Read level 3 for modules 3 and 4 | Types <br> Introduction to Profiling and Performance Use Cases <br> Inference exercise |
+7/12/23 | | Introduction to projects <br> Exercise / Group discussions of cases |
+2/1/24 | | Tips and tricks for real-time systems <br> Introduction to projects <br> Choosing projects <br> Programming |
+3/1/24 | | Programming |
+4/1/24 | | Programming |
+5/1/24 | | Programming |
+8/1/24 | | Programming |
+9/1/24 | | Programming |
+10/1/24 | | Programming |
+11/1/24 | | Programming <br> Demo day |
