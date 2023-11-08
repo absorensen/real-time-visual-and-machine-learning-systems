@@ -40,25 +40,21 @@ A student who has met the objectives of the course will be able to:
 * Programming, presenting and analyzing the students' own real-time system.
 
 ## Evaluation
-All work must be done alone, but it is recommended to talk with other students and the teacher.
+All work must be done alone, but it is recommended to talk about the problems.
 
-* 2 Hand-ins
-* Presentation on Demo Day of a real-time system
-* Final report on the design, process and implementation of the real-time system
+* Coding - Memory hierarchies and GPU's
+* Analysis - Analysing a code template and minimum 3 points from a list of articles
+* Programming project - presentating a functoning real-time system and hand-in of the product and a log book of
+the development process
 
 ### Course work
 Aside from reading and listening:  
 
-* Rudimentary Rust exercises
-* Paper and pen exercise
-* HAND-IN - Coding - memory hierarchies and GPU's
-* HAND-IN - Analysis - Analysing a code template and minimum 3 points from a list of articles
-* Inference exercise
-* Analysis/presentation/discussion exercise. The student will choose a use case,
-analyze it, present it to a group and then discuss it  
-* Try a profiler with a use case
-* HAND-IN & DEMO - Significant programming project - presentation on demo day
-and report hand-in about the product and the process
+* Rudimentary Rust exercises - Advent of Code and Ray Tracing in One Weekend
+* Paper and pen exercises about memory
+* Types coding exercises
+* Setup one or more profilers and explore them
+* Analysis, presentation and discussion exercise. Choose a use case, analyze it, present it in groups and discuss
 
 ## Schedule
 Location: Building 321, room 232 at DTU  
@@ -70,16 +66,16 @@ Date      | Prep      | Topics    |Lecture
 ----------|-----------|-----------|-------
 26/10/23  | Read level 1 and 2 for all modules <br> Install and run framework <br> | Introduction to the course <br> Introduction to Rust <br> Rudimentary Rust exercises | [Link](https://github.com/absorensen/real-time-visual-and-machine-learning-systems/blob/main/lectures/autumn23/231026lecture.pdf)
 2/11/23 | Read level 3 for modules 0 and 1 | Memory Hierarchies and computational graphs <br> Pen and Paper exercises | [Link](https://github.com/absorensen/real-time-visual-and-machine-learning-systems/blob/main/lectures/autumn23/231102lecture.pdf)
-9/11/23 | Reread GPU and computational graph sections | Memory Hierarchies and computational graphs <br> Coding Exercise/Hand-in | [Link](https://github.com/absorensen/real-time-visual-and-machine-learning-systems/blob/main/lectures/autumn23/231109lecture.pdf)
-16/11/23 | Read level 3 for module 2 | Parallelization <br> Analysis Exercise/Hand-in |
-23/11/23 | | Parallelization <br> Analysis Exercise/Hand-in continued |
-30/11/23 | Read level 3 for modules 3 and 4 | Types <br> Introduction to Profiling and Performance Use Cases <br> Inference exercise |
-7/12/23 | | Introduction to projects <br> Exercise / Group discussions of cases |
-2/1/24 | | Tips and tricks for real-time systems <br> Introduction to projects <br> Choosing projects <br> Programming |
-3/1/24 | | Programming |
-4/1/24 | | Programming |
-5/1/24 | | Programming |
-8/1/24 | | Programming |
-9/1/24 | | Programming |
-10/1/24 | | Programming |
-11/1/24 | | Programming <br> Demo day |
+9/11/23 | Reread GPU and computational graph sections | Memory Hierarchies and computational graphs <br> [Coding Hand-in](https://absorensen.github.io/the-guide/m1_memory_hierarchies/s6_exercises/) | [Link](https://github.com/absorensen/real-time-visual-and-machine-learning-systems/blob/main/lectures/autumn23/231109lecture.pdf)
+16/11/23 | Read level 3 for module 2 | Parallelization <br> [Analysis Hand-in](https://absorensen.github.io/the-guide/m2_concurrency/s10_exercises/) |
+23/11/23 | | Parallelization <br> [Analysis Hand-in](https://absorensen.github.io/the-guide/m2_concurrency/s10_exercises/) |
+30/11/23 | Read level 3 for modules 3 and 4 | Types <br> Introduction to Profiling and Performance Use Cases <br> [Types exercise](https://absorensen.github.io/the-guide/m3_types/s7_exercises/) | [Profiler exercise](https://absorensen.github.io/the-guide/m4_optimization/s3_exercises/) |
+7/12/23 | | Introduction to real-time systems <br> Introduction to projects <br> Approval of projects <br> Group discussions of [cases exercise](https://absorensen.github.io/the-guide/m5_real_time_systems/s3_exercises/) |
+2/1/24 | | Project Work |
+3/1/24 | | Project Work |
+4/1/24 | | Project Work |
+5/1/24 | | Project Work |
+8/1/24 | | Project Work |
+9/1/24 | | Project Work |
+10/1/24 | | Project Work |
+11/1/24 | | Project Work <br> Demo day |
