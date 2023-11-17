@@ -64,13 +64,13 @@ The course ends with a demo day where you can show off your hard work
 
 Date      | Prep      | Topics    |Lecture
 ----------|-----------|-----------|-------
-26/10/23  | Read level 1 and 2 for all modules <br> Install and run framework <br> | Introduction to the course <br> Introduction to Rust <br> Rudimentary Rust exercises | [Link](https://github.com/absorensen/real-time-visual-and-machine-learning-systems/blob/main/lectures/autumn23/231026lecture.pdf)
-2/11/23 | Read level 3 for modules 0 and 1 | Memory Hierarchies and computational graphs <br> Pen and Paper exercises | [Link](https://github.com/absorensen/real-time-visual-and-machine-learning-systems/blob/main/lectures/autumn23/231102lecture.pdf)
-9/11/23 | Reread GPU and computational graph sections | Memory Hierarchies and computational graphs <br> [Coding Hand-in](https://absorensen.github.io/the-guide/m1_memory_hierarchies/s6_exercises/) | [Link](https://github.com/absorensen/real-time-visual-and-machine-learning-systems/blob/main/lectures/autumn23/231109lecture.pdf)
-16/11/23 | Read level 2 & 3 for module 2, s0 to s4 | Concurrency <br> [Analysis Hand-in](https://absorensen.github.io/the-guide/m2_concurrency/s10_exercises/) | [Link](https://github.com/absorensen/real-time-visual-and-machine-learning-systems/blob/main/lectures/autumn23/231116lecture.pdf)
-23/11/23 | Read level 2 & 3 for module 2, s5 to s9 | Concurrency <br> [Analysis Hand-in](https://absorensen.github.io/the-guide/m2_concurrency/s10_exercises/) |
-30/11/23 | Read level 2 & 3 for modules 3 and 4 | Types <br> Introduction to Profiling and Performance Use Cases <br> [Types exercise](https://absorensen.github.io/the-guide/m3_types/s7_exercises/) <br> [Profiler exercise](https://absorensen.github.io/the-guide/m4_optimization/s3_exercises/) | |
-7/12/23 | | Introduction to real-time systems <br> Introduction to projects <br> Approval of projects <br> Group discussions of [cases exercise](https://absorensen.github.io/the-guide/m5_real_time_systems/s3_exercises/) |
+26/10/23  | Read level 1 and 2 for all modules <br> Install and run framework <br> | Introduction to the course <br> Introduction to Rust <br> Rudimentary Rust exercises | [Link][0]
+2/11/23 | Read level 3 for modules 0 and 1 | Memory Hierarchies and computational graphs <br> Pen and Paper exercises | [Link][1]
+9/11/23 | Reread GPU and computational graph sections | Memory Hierarchies and computational graphs <br> [Coding Hand-in][2] | [Link][3]
+16/11/23 | Read level 2 & 3 for module 2, s0 to s4 | Concurrency <br> [Analysis Hand-in][4] | [Link][5]
+23/11/23 | Read level 2 & 3 for module 2, s5 to s9 | Concurrency | [Link][8]
+30/11/23 | Read level 2 & 3 for modules 3 and 4 | Types <br> Introduction to Profiling and Performance Use Cases <br> [Types exercise][6] <br> [Profiler exercise][7] | |
+7/12/23 | | Introduction to real-time systems <br> Introduction to projects <br> Approval of projects |
 2/1/24 | | Project Work |
 3/1/24 | | Project Work |
 4/1/24 | | Project Work |
@@ -79,3 +79,13 @@ Date      | Prep      | Topics    |Lecture
 9/1/24 | | Project Work |
 10/1/24 | | Project Work |
 11/1/24 | | Project Work <br> Demo day |
+
+[0]: https://github.com/absorensen/real-time-visual-and-machine-learning-systems/blob/main/lectures/autumn23/231026lecture.pdf
+[1]: https://github.com/absorensen/real-time-visual-and-machine-learning-systems/blob/main/lectures/autumn23/231102lecture.pdf
+[2]: https://absorensen.github.io/the-guide/m1_memory_hierarchies/s6_exercises/
+[3]: https://github.com/absorensen/real-time-visual-and-machine-learning-systems/blob/main/lectures/autumn23/231109lecture.pdf
+[4]: https://absorensen.github.io/the-guide/m2_concurrency/s10_exercises/
+[5]: https://github.com/absorensen/real-time-visual-and-machine-learning-systems/blob/main/lectures/autumn23/231116lecture.pdf
+[6]: https://absorensen.github.io/the-guide/m3_types/s7_exercises/
+[7]: https://absorensen.github.io/the-guide/m4_optimization/s3_exercises/
+[8]: https://github.com/absorensen/real-time-visual-and-machine-learning-systems/blob/main/lectures/autumn23/231123lecture.pdf
