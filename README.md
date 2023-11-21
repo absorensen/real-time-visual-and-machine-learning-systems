@@ -70,7 +70,7 @@ Date      | Prep      | Topics    |Lecture
 16/11/23 | Read level 2 & 3 for module 2, s0 to s4 | Concurrency <br> [Analysis Hand-in][4] | [Link][5]
 23/11/23 | Read level 2 & 3 for module 2, s5 to s9 | Concurrency | [Link][8]
 30/11/23 | Read level 2 & 3 for modules 3 and 4 | Types <br> Introduction to Profiling and Performance Use Cases <br> [Types exercise][6] <br> [Profiler exercise][7] | [Link][9]
-7/12/23 | | Introduction to real-time systems <br> Introduction to projects <br> Approval of projects |
+7/12/23 | | Introduction to real-time systems <br> Introduction to projects <br> Approval of projects | [Link][10]
 2/1/24 | | Project Work |
 3/1/24 | | Project Work |
 4/1/24 | | Project Work |
@@ -90,3 +90,4 @@ Date      | Prep      | Topics    |Lecture
 [7]: https://absorensen.github.io/the-guide/m4_optimization/s3_exercises/
 [8]: https://github.com/absorensen/real-time-visual-and-machine-learning-systems/blob/main/lectures/autumn23/231123lecture.pdf
 [9]: https://github.com/absorensen/real-time-visual-and-machine-learning-systems/blob/main/lectures/autumn23/231130lecture.pdf
+[10]: https://github.com/absorensen/real-time-visual-and-machine-learning-systems/blob/main/lectures/autumn23/231207lecture.pdf
