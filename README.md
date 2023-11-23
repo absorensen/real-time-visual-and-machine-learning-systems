@@ -69,8 +69,8 @@ Date      | Prep      | Topics    |Lecture
 9/11/23 | Reread GPU and computational graph sections | Memory Hierarchies and computational graphs <br> [Coding Hand-in][2] | [Link][3]
 16/11/23 | Read level 2 & 3 for module 2, s0 to s4 | Concurrency <br> [Analysis Hand-in][4] | [Link][5]
 23/11/23 | Read level 2 & 3 for module 2, s5 to s9 | Concurrency | [Link][8]
-30/11/23 | Read level 2 & 3 for modules 3 and 4 | Types <br> Introduction to Profiling and Performance Use Cases <br> [Types exercise][6] <br> [Profiler exercise][7] | [Link][9]
-7/12/23 | | Introduction to real-time systems <br> Introduction to projects <br> Approval of projects | [Link][10]
+30/11/23 | Read level 2 & 3 for modules 3 and 5 | Types <br> Introduction to Profiling and Performance Use Cases <br> [Types exercise][6] <br> [Profiler exercise][7] | [Link][9]
+7/12/23 | Read module 4 | Introduction to real-time systems <br> Introduction to projects <br> Approval of projects | [Link][10]
 2/1/24 | | Project Work |
 3/1/24 | | Project Work |
 4/1/24 | | Project Work |
