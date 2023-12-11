@@ -87,7 +87,7 @@ Date      | Prep      | Topics    |Lecture
 [4]: https://absorensen.github.io/the-guide/m2_concurrency/s8_exercises/
 [5]: https://github.com/absorensen/real-time-visual-and-machine-learning-systems/blob/main/lectures/autumn23/231116lecture.pdf
 [6]: https://absorensen.github.io/the-guide/m3_types/s7_exercises/
-[7]: https://absorensen.github.io/the-guide/m5_optimization/s3_exercises/
+[7]: https://absorensen.github.io/the-guide/m5_optimization/s2_exercises/
 [8]: https://github.com/absorensen/real-time-visual-and-machine-learning-systems/blob/main/lectures/autumn23/231123lecture.pdf
 [9]: https://github.com/absorensen/real-time-visual-and-machine-learning-systems/blob/main/lectures/autumn23/231130lecture.pdf
 [10]: https://github.com/absorensen/real-time-visual-and-machine-learning-systems/blob/main/lectures/autumn23/231207lecture.pdf
