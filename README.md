@@ -62,7 +62,8 @@ Aside from reading and listening:
     The schedule below was the way the course was taught while the underlying material was still being written.
     It does not necessarily reflect the way and order in which it should be taught. You can create your own view
     on the underlying material and choose your exercises and order. It also became apparent while teaching
-    that another day was needed for teaching GPU programming and more material was written for it.
+    that another day was needed for teaching GPU programming and more material was written for it. The concept
+    of levels has also been removed from the material.
 
 Location: Building 321, room 232 at DTU  
 The lectures before New Years will be from 13-17  
