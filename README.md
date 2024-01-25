@@ -90,9 +90,9 @@ Date      | Prep      | Topics    |Lecture
 
 [0]: https://github.com/absorensen/real-time-visual-and-machine-learning-systems/blob/main/lectures/autumn23/231026lecture.pdf
 [1]: https://github.com/absorensen/real-time-visual-and-machine-learning-systems/blob/main/lectures/autumn23/231102lecture.pdf
-[2]: https://absorensen.github.io/the-guide/m1_memory_hierarchies/s6_exercises/
+[2]: https://absorensen.github.io/the-guide/m1_memory_hierarchies/s8_exercises/
 [3]: https://github.com/absorensen/real-time-visual-and-machine-learning-systems/blob/main/lectures/autumn23/231109lecture.pdf
-[4]: https://absorensen.github.io/the-guide/m4_real_time_systems/s7_exercises/
+[4]: https://absorensen.github.io/the-guide/m4_real_time_systems/s8_exercises/
 [5]: https://github.com/absorensen/real-time-visual-and-machine-learning-systems/blob/main/lectures/autumn23/231116lecture.pdf
 [6]: https://absorensen.github.io/the-guide/m3_types/s7_exercises/
 [7]: https://absorensen.github.io/the-guide/m5_optimization/s2_exercises/
