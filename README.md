@@ -50,13 +50,20 @@ the development process
 ### Course work
 Aside from reading and listening:  
 
-* Rudimentary Rust exercises - Advent of Code and Ray Tracing in One Weekend
+* Rudimentary Rust exercises
 * Paper and pen exercises about memory
 * Types coding exercises
 * Setup one or more profilers and explore them
 * Analysis, presentation and discussion exercise. Choose a use case, analyze it, present it in groups and discuss
 
 ## Schedule
+!!! warning "Work in progress"
+
+    The schedule below was the way the course was taught while the underlying material was still being written.
+    It does not necessarily reflect the way and order in which it should be taught. You can create your own view
+    on the underlying material and choose your exercises and order. It also became apparent while teaching
+    that another day was needed for teaching GPU programming and more material was written for it.
+
 Location: Building 321, room 232 at DTU  
 The lectures before New Years will be from 13-17  
 The project work after New Years will be all day, but you can come and go as you'd like
